@@ -1,4 +1,4 @@
-# Static THBF — Strict S1 Implementation
+# Static THBF — S1 Implementation
 
 Python/NumPy implementation of the **S1: Static THBF First** blocks in the working draft.
 
